@@ -1,0 +1,84 @@
+#MrtRobotics{
+    margin: auto;
+    }
+  #logo {
+    text-align: center;
+  }
+  .Baslik {
+    width: 100%;
+    font-style: italic;
+    height: 100px;
+    font-size: 3em;
+    text-align: center;
+    }
+  .Baslik1{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-decoration: none;
+    color: grey;
+  }
+  .Baslik1:hover {
+    color: gold;
+    text-decoration: underline;
+  }
+  #intro {
+    font: italic 2em lato;
+    text-align: center;
+    height: 150px;
+    color:grey;
+    width: 100%;
+  }
+  
+  .Foto{
+   margin: 20px 20px 20px 20px;
+   border: 5px groove gray;
+   float: left;
+  }
+  .Content {
+    margin: auto;
+    padding: 10px;
+    font-size: 18px;
+    font-family: helvetica;
+    line-height:3em;
+    height: 200px;
+    overflow: auto;
+   }
+  table {
+    width: 70%;
+    margin: auto;
+  }
+  #Range {
+    font: italic 2em lato;
+    text-align: center;
+    color:grey;
+    width: 100%;
+  }
+  th, td {
+    margin: auto;
+    font-family: monospace;
+    font-size: 20px;
+    margin: 10px 10px 10px 10px;
+    padding:10px;
+    text-decoration: none;
+    text-align: center;
+    height: 50px;
+  }
+  .style1 {background-color: gold;
+    color: white;
+    font-family: loco;
+    font-size: 30px;
+  }
+  .style {background-color: grey;
+    color: white;
+    font-family: loco;
+    font-size: 20px;
+  }
+  #adress{
+    margin:auto ;
+    font-family: monospace;
+    font-size: 20px;
+    margin: 10px 10px 10px 10px;
+    padding:10px;
+    text-decoration: none;
+    text-align: center;
+  }
