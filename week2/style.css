@@ -61,3 +61,15 @@ h3 {
         width: 94%;
     }
 }
+@keyframes colorchange {
+  from {background-color: antiquewhite;}
+  to {background-color: yellow;}
+}
+
+.grid-item:nth-child(1) {
+  background-color: antiquewhite;
+  animation-name: colorchange;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
