@@ -63,7 +63,7 @@ h3 {
 }
 @keyframes colorchange {
   from {background-color: antiquewhite;}
-  to {background-color: red; }
+  to {background-color: red;}
 }
 
 .grid-item:nth-child(1) {
