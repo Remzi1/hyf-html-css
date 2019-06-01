@@ -47,7 +47,10 @@ h3 {
         width: 29%;
     }
     .grid-item:nth-child(1) {
-        width: 62%;
+        width: 46%;
+    }
+    .grid-item:nth-child(2) {
+        width: 46%;
     }
 }
 @media (max-width: 900px) {
