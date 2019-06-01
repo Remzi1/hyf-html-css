@@ -47,10 +47,10 @@ h3 {
         width: 29%;
     }
     .grid-item:nth-child(1) {
-        width: 45.5%;
+        width: 45,5%;
     }
     .grid-item:nth-child(2) {
-        width: 45.5%;
+        width: 45,5%;
     }
 }
 @media (max-width: 900px) {
