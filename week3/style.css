@@ -13,14 +13,14 @@ body{
 }
 .head_column_left {
     flex: 30%;
-    padding-left: 20px;
-    padding-top: 55px;
+    padding-left: 3%;
+    padding-top: 3%;
 }
 .head_column_right {
     flex: 70%;
-    padding-left: 50px;
-    padding-top: 55px;
-    padding-bottom: 50px;
+    padding-left: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
 }
 h1 {
     font-size: 1.375em;
