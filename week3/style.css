@@ -55,6 +55,7 @@ a:hover {
   }
   .column{
     flex: 28%;
+    max-width:28%;
     text-align: center;
 
  }
