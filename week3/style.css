@@ -50,12 +50,11 @@ a:hover {
   .main_section {
       display: flex;
       flex-wrap: wrap;
-      padding: 0 4px;
+      justify-content: space-evenly;
+      align-content: flex-start;
   }
   .column{
-    flex: 33.33%;
-    max-width: 33.33%;
-    padding: 0 4px;
+    flex: 28%;
     text-align: center;
 
  }
